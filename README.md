@@ -27,6 +27,9 @@ building your own.
 | --- | --- |
 | ![A pink peony on a flat green chroma-key background](examples/cutout-source.png) | ![The same peony with a transparent background](examples/cutout-transparent.png) |
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/30c9cbd8-b96f-4d85-b34f-14eb013f18ed" />
+
+
 `gpt-image-2` can't output a transparent background directly, so this skill
 generates on a flat key color and strips it locally — clean edges even
 around fine petal detail, no fringing.
